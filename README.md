@@ -25,12 +25,12 @@ I enjoy coding!
 <div style="display: flex;flex-wrap: nowrap; width:100%">
   <div>
     <a href="https://github.com/ahmadridhoramadhan">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadridhoramadhan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="100%" /> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadridhoramadhan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="48%" /> 
     </a>
   </div>
   <div>
     <a href="http://www.github.com/ahmadridhoramadhan">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadridhoramadhan&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadridhoramadhan&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
     </a>
   </div>
 </div>
