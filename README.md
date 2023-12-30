@@ -24,6 +24,12 @@ I enjoy coding!
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ahmadridhoramadhan" style="display: inline"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadridhoramadhan&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left">
+  <a href="http://www.github.com/ahmadridhoramadhan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadridhoramadhan&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400" />
+  </a>
+  <a href="https://github.com/ahmadridhoramadhan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadridhoramadhan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="400" /> 
+  </a>
+</p>
 
-<a href="https://github.com/ahmadridhoramadhan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadridhoramadhan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
