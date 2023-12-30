@@ -24,7 +24,7 @@ I enjoy coding!
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex;">
+<div style="display: flex;flex-wrap: nowrap;">
   <div style="flex: 50%;">
     <a href="http://www.github.com/ahmadridhoramadhan">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadridhoramadhan&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400" />
