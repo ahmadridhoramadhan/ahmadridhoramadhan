@@ -1,14 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmad Ridho Ramadhan
-============================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmad Ridho Ramadhan
 
-Web Developer
--------------
+## Web Developer
 
 I enjoy coding!
 
-* 🌍  I'm based in Banjarmasin City
-* 🖥️  See my portfolio at [My Website](http://ahmadridhoramadhan.github.io)
-* ✉️  You can contact me at [ahmadridhoramadhan2@gmail.com](mailto:ahmadridhoramadhan2@gmail.com)
+-   🌍 I'm based in Banjarmasin City
+-   🖥️ See my portfolio at [My Website](http://ahmadridhoramadhan.github.io)
+-   ✉️ You can contact me at [ahmadridhoramadhan2@gmail.com](mailto:ahmadridhoramadhan2@gmail.com)
 
 ### Skills
 
@@ -24,17 +22,15 @@ I enjoy coding!
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex;flex-wrap: nowrap;">
-  <div style="flex: 50%;">
-    <a href="http://www.github.com/ahmadridhoramadhan">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadridhoramadhan&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400" />
+<div style="display: flex;flex-wrap: nowrap;>
+  <div>
+    <a href="https://github.com/ahmadridhoramadhan">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadridhoramadhan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="100%" /> 
     </a>
   </div>
-  <div style="flex: 50%;">
-    <a href="https://github.com/ahmadridhoramadhan">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadridhoramadhan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="400" /> 
+  <div>
+    <a href="http://www.github.com/ahmadridhoramadhan">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadridhoramadhan&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
     </a>
   </div>
 </div>
-
-
