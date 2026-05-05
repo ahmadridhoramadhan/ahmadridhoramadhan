@@ -25,7 +25,7 @@ contact: ahmadridhoramadhan2@gmail.com
 passion: "I enjoy coding!"
 ```
 
-<img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75117e455753251d1de4349938/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" />
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
 
 - 🌍 Based in **Banjarmasin City, Indonesia**
 - 🖥️ Check out my portfolio → [ahmadridhoramadhan.github.io](http://ahmadridhoramadhan.github.io)
